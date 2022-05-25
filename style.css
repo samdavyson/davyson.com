@@ -36,26 +36,35 @@ body {
         max-width: 75%;
         margin-bottom:50px;
         margin-top:50px;
+        max-height:50vh;
     }
     .button-image {
         max-width: 60%;
         margin-top: 50px;
+        max-height:20vh;
     }
 }
 
 
 @media screen and (min-width: 768px) {
     .title-image {
-        max-width: 500px;
+        max-width: 600px;
         margin-bottom: 50px;
     }
     .ruby-image {
-        max-width: 500px;
+        max-width: 600px;
         margin-bottom:50px;
         margin-top:50px;
     }
     .button-image {
-        max-width: 350px;
+        max-width: 500px;
         margin-top: 50px;
     }
+}
+
+#photo-links {
+    display:none;
+}
+#photo-tease {
+    display:none;
 }
