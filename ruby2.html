@@ -1,6 +1,20 @@
 <HTML>
 <HEAD><TITLE>Ruby Hanson Davy</TITLE>
     <LINK REL="stylesheet" HREF="style.css" type="text/css" />
+<script type="text/javascript">
+window.onload = function() {
+var current = new Date();
+var expiry = new Date('2022-05-26T14:00:00.000-00:00')
+
+if (current.getTime() > expiry.getTime()) {
+  document.getElementById('photo-tease').style.display = "none";
+  document.getElementById('photo-links').style.display = "block";
+} else {
+    document.getElementById('photo-tease').style.display = "block";
+
+}
+}
+</script>
 </HEAD>
 <BODY>
     <DIV class="main">
@@ -10,6 +24,13 @@
     <div class="header-item">
     <IMG SRC="title.png" class="title-image" />
 </div>
+<div id="photo-tease">
+<div class="button-item">
+    <IMG SRC="photo-tease.png" class="button-image" />
+</a>
+</div>
+</div>
+<div id="photo-links">
 <div class="button-item">
     <a href="">
     <IMG SRC="ruby-in-pictures.png" class="button-image" />
@@ -20,6 +41,8 @@
     <IMG SRC="photos.png" class="button-image" />
 </a>
 </div>
+</div>
+
 <div class="button-item">
     <a href="https://wlh.org.uk">
     <IMG SRC="donate.png" class="button-image" />
