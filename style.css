@@ -2,15 +2,6 @@ body {
     align-items: center;
     width:100%;
 }
-.title-image {
-    max-width: 500px;
-    margin-bottom: 50px;
-}
-.ruby-image {
-    max-width: 500px;
-    margin-bottom:50px;
-    margin-top:50px;
-}
 .main {
     background-color:rgb(255, 255, 255);
         width:100%;
@@ -18,10 +9,53 @@ body {
  text-align: center;
  padding-bottom: 120px;
 }
-.header-item {
- 
+
+@media screen and (min-width: 100px) {
+    .title-image {
+        max-width: 90%;
+        margin-bottom: 50px;
+    }
+    .ruby-image {
+        max-width: 90%;
+        margin-bottom:50px;
+        margin-top:50px;
+    }
+    .button-image {
+        max-width: 80%;
+        margin-top: 50px;
+    }
 }
-.button-image {
-    max-width: 350px;
-    margin-top: 50px;
+
+
+@media screen and (min-width: 576px) {
+    .title-image {
+        max-width: 75%;
+        margin-bottom: 50px;
+    }
+    .ruby-image {
+        max-width: 75%;
+        margin-bottom:50px;
+        margin-top:50px;
+    }
+    .button-image {
+        max-width: 60%;
+        margin-top: 50px;
+    }
+}
+
+
+@media screen and (min-width: 768px) {
+    .title-image {
+        max-width: 500px;
+        margin-bottom: 50px;
+    }
+    .ruby-image {
+        max-width: 500px;
+        margin-bottom:50px;
+        margin-top:50px;
+    }
+    .button-image {
+        max-width: 350px;
+        margin-top: 50px;
+    }
 }
