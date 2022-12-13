@@ -1,8 +1,7 @@
 body {
     align-items: center;
     width:100%;
-    font-size: 24px;
-    padding: 50px;
+    font-size: 36px;
 }
 .main {
     background-color:rgb(255, 255, 255);
@@ -10,6 +9,7 @@ body {
  align-items: center;   
  text-align: center;
  padding-bottom: 120px;
+padding-top: 80px;
 }
 
 
