@@ -11,20 +11,20 @@ category: HOME
 
 ## I love solving difficult puzzles.
 
-Interests: technology, physics, psychology, travel. 
+Interests: technology, physics, real estate, travel. 
 
 Based in Geneva, Switzerland
 
-## [Stacker](https://stacker.app)
-<b>Making it happen.</b> Build web apps without code.
+## [DeedSpring](https://deedspring.com)
+AI Transaction Coordinator that does the work.
 
-## [Boldsparks](https://boldsparks.davyson.com)
-<b>Switched on.</b> Enterprise cloud technologies.
+<!--- ## [Boldsparks](https://boldsparks.davyson.com)
+<b>Switched on.</b> Enterprise cloud technologies. -->
 
-## [Screen Escape](https://screenescape.com)
-<b>Unplugged.</b> Manage your screen addiction.
+<!--- ## [Screen Escape](https://screenescape.com)
+<b>Unplugged.</b> Manage your screen addiction. --> 
 
-## [TRAC RUN](https://tracrun.stacker.app)
-<b>Outside.</b> Running with friends.
+<!--- ## [TRAC RUN](https://tracrun.stacker.app)
+<b>Outside.</b> Running with friends. --> 
 
 ## [LinkedIn](https://www.linkedin.com/in/davyson/) &bull; [Contact](mailto:hi@davyson.com)
